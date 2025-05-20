@@ -75,7 +75,7 @@ export default function Home() {
         "url": "https://www.cricbet99.vip/"
       },
       "sameAs": [
-        "https://www.instagram.com/CricBet99__official"
+        "https://www.instagram.com/cricbet99_officiall/"
       ],
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -113,7 +113,7 @@ export default function Home() {
         "availableLanguage": "English"
       },
       "sameAs": [
-        "https://www.instagram.com/CricBet99__official"
+        "https://www.instagram.com/cricbet99_officiall/"
       ]
     }
     ` }} />
@@ -155,7 +155,7 @@ export default function Home() {
         "closes": "23:59"
       }],
       "sameAs": [
-        "https://www.instagram.com/CricBet99__official"
+        "https://www.instagram.com/cricbet99_officiall/"
       ]
     }
     ` }} />
@@ -170,56 +170,56 @@ export default function Home() {
         "name": "How do I sign up at CricBet99?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "It's incredibly easy to register. On our home page, click the \\"Sign Up\\" or \\"Register\\" button. Additionally, you can obtain your customer ID straight from the WhatsApp (suggested) button on the homepage. To begin, you will be prompted for your email address, active WhatsApp number, and full name."
+          "text": "The registration process is really simple. Click the "Sign Up" or "Register" button on our main page. Furthermore, you can get your customer ID directly from the homepage's WhatsApp (recommended) button. You will first be asked for your full name, active WhatsApp number, and email address."
         }
       },{
         "@type": "Question",
         "name": "Are there new player welcome bonuses at CricBet99?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Indeed, promotions and welcome offers are available to both new and returning players. We currently offer a 100% welcome bonus on your initial deposit. Additionally, we offer 1% lifetime referral awards in addition to unique referral bonuses for longtime users."
+          "text": "Yes, both new and returning players can take advantage of promos and welcome offers. Right now, you can get a 100% welcome bonus on your first deposit. We also provide special referral bonuses for loyal users, along with 1% lifetime referral awards."
         }
       },{
         "@type": "Question",
         "name": "How many betting options are available on CricBet99?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Popular sports betting (such as football, cricket, and tennis), live casino, virtual sports, and hundreds of other activities are just a few of the many betting options offered by CricBet99. The CricBet99 app's side menu or top bar allows you to view all of the lists."
+          "text": "CricBet99 offers a wide range of betting alternatives, including live casino, virtual sports, popular sports betting (including football, cricket, and tennis), and hundreds of other activities. You may view all of the lists in the top bar or side menu of the CricBet99 app."
         }
       },{
         "@type": "Question",
         "name": "What options are available for downloading the CricBet99 apps?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Visit the official website to download the CricBet99 app, which is compatible with iOS and Android. When a warning appears during the initial installation, you can choose to disregard it and click \\"Install Anyway.\\""
+          "text": "For iOS and Android users, the CricBet99 app can be downloaded from the official website. During the first installation, you have the option to ignore the warning and click "Install Anyway.""
         }
       },{
         "@type": "Question",
         "name": "How long does it take to get funds in my CricBet99 account after a deposit?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Deposits made using UPI and E-Wallets are typically credited in a matter of seconds. Depending on the banking system, net banking transfers (RTGS, NEFT, and IMPS) take five minutes. The timings for cryptocurrency deposits may change because they need network confirmations."
+          "text": "E-wallets and UPI deposits are usually credited within a few seconds. Net banking transfers (RTGS, NEFT, and IMPS) take five minutes, depending on the banking system. Because bitcoin deposits require network confirmations, the times may vary."
         }
       },{
         "@type": "Question",
         "name": "What if I forget my CricBet99 password?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Simply click the \\"Forgot Password\\" option on the login page if you can't remember your password. You will be asked to enter your WhatsApp number or registered email address. Our support staff can also be reached directly on WhatsApp."
+          "text": "If you can't remember your password, just select the "Forgot Password" option on the login screen. You will be prompted to input your registered email address or WhatsApp number. You can also get in touch with our support team directly on WhatsApp."
         }
       },{
         "@type": "Question",
         "name": "How do I get customer support if I face any problem?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "We offer 24/7 one-on-one customer service from actual people, not chatbots. We can also be reached by live conversation on WhatsApp."
+          "text": "We provide 24/7 human, not chatbot, one-on-one client care. We can also be contacted via WhatsApp live chat."
         }
       },{
         "@type": "Question",
         "name": "What if a match or an event on which I have bet is cancelled?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Events that are canceled or postponed are examples of circumstances that fall under our betting terms. Typically, bets on canceled events are null and void; the money is returned to your CricBet99 balance."
+          "text": "Examples of situations that are covered by our betting rules include events that are postponed or canceled. In most cases, wagers on canceled events are worthless; the funds are credited back to your CricBet99 balance."
         }
       }]
     }
@@ -236,7 +236,7 @@ export default function Home() {
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
-        "reviewCount": "67254"
+        "reviewCount": "97254"
       },
       "review": [
         {
