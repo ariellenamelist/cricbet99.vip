@@ -285,7 +285,7 @@ export default function Home() {
     }
     ` }} />
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3YDZMBMFVZ" ></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-RDES77C2BZ" ></script>
     <script
       dangerouslySetInnerHTML={{
         __html: `
@@ -293,7 +293,7 @@ export default function Home() {
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
 
-          gtag('config', 'G-3YDZMBMFVZ');
+          gtag('config', 'G-RDES77C2BZ');
         `,
       }}
     />
