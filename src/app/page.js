@@ -36,7 +36,7 @@ export default function Home() {
     
     <meta name="title" content="Welcome to CricBet99"/>
     <meta name="description" content="There is no doubt that CricBet99 is the largest gaming website in the world. More than 4500+ sports games are available daily on CricBet99.com website. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a CricBet99 account now."/>
-    <meta name="keywords" content="#"/>
+    <meta name="keywords" content="welcome to cricbet99, cricbet99 login, cricbet99.com login, cricbet99 club, cricbet99 ID, cricbet99 sign up, cricbet99 link, cricbet99 download, cricbet99 app, cricbet99 win, cricbet99 whatsapp number, cricbet99 login ID, cricbet99 download apk"/>
     <meta name="author" content="CricBet99"/>
     <meta name="publisher" content="CricBet99"/>
     <meta httpEquiv="Content-Language" content="en-IN"/>
