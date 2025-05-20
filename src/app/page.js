@@ -33,6 +33,7 @@ export default function Home() {
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
+    <meta name="google-site-verification" content="yZowM2owOaBNiz6DaQw4ZSbSzAo3TykvXoHhamcl7C0" />
     
     <meta name="title" content="Welcome to CricBet99"/>
     <meta name="description" content="There is no doubt that CricBet99 is the largest gaming website in the world. More than 4500+ sports games are available daily on CricBet99.com website. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a CricBet99 account now."/>
