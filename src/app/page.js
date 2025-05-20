@@ -160,69 +160,68 @@ export default function Home() {
     }
     ` }} />
     
-    <script
-  type="application/ld+json" dangerouslySetInnerHTML={{ __html: `
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [{
-        "@type": "Question",
-        "name": "How do I sign up at CricBet99?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The registration process is really simple. Click the "Sign Up" or "Register" button on our main page. Furthermore, you can get your customer ID directly from the homepage's WhatsApp (recommended) button. You will first be asked for your full name, active WhatsApp number, and email address."
-        }
-      },{
-        "@type": "Question",
-        "name": "Are there new player welcome bonuses at CricBet99?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, both new and returning players can take advantage of promos and welcome offers. Right now, you can get a 100% welcome bonus on your first deposit. We also provide special referral bonuses for loyal users, along with 1% lifetime referral awards."
-        }
-      },{
-        "@type": "Question",
-        "name": "How many betting options are available on CricBet99?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "CricBet99 offers a wide range of betting alternatives, including live casino, virtual sports, popular sports betting (including football, cricket, and tennis), and hundreds of other activities. You may view all of the lists in the top bar or side menu of the CricBet99 app."
-        }
-      },{
-        "@type": "Question",
-        "name": "What options are available for downloading the CricBet99 apps?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "For iOS and Android users, the CricBet99 app can be downloaded from the official website. During the first installation, you have the option to ignore the warning and click "Install Anyway.""
-        }
-      },{
-        "@type": "Question",
-        "name": "How long does it take to get funds in my CricBet99 account after a deposit?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "E-wallets and UPI deposits are usually credited within a few seconds. Net banking transfers (RTGS, NEFT, and IMPS) take five minutes, depending on the banking system. Because bitcoin deposits require network confirmations, the times may vary."
-        }
-      },{
-        "@type": "Question",
-        "name": "What if I forget my CricBet99 password?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "If you can't remember your password, just select the "Forgot Password" option on the login screen. You will be prompted to input your registered email address or WhatsApp number. You can also get in touch with our support team directly on WhatsApp."
-        }
-      },{
-        "@type": "Question",
-        "name": "How do I get customer support if I face any problem?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "We provide 24/7 human, not chatbot, one-on-one client care. We can also be contacted via WhatsApp live chat."
-        }
-      },{
-        "@type": "Question",
-        "name": "What if a match or an event on which I have bet is cancelled?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Examples of situations that are covered by our betting rules include events that are postponed or canceled. In most cases, wagers on canceled events are worthless; the funds are credited back to your CricBet99 balance."
-        }
-      }]
-    }
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: `
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [{
+          "@type": "Question",
+          "name": "How do I sign up at CricBet99?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The registration process is really simple. Click the \\"Sign Up\\" or \\"Register\\" button on our main page. Furthermore, you can get your customer ID directly from the homepage's WhatsApp (recommended) button. You will first be asked for your full name, active WhatsApp number, and email address."
+          }
+        }, {
+          "@type": "Question",
+          "name": "Are there new player welcome bonuses at CricBet99?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, both new and returning players can take advantage of promos and welcome offers. Right now, you can get a 100% welcome bonus on your first deposit. We also provide special referral bonuses for loyal users, along with 1% lifetime referral awards."
+          }
+        }, {
+          "@type": "Question",
+          "name": "How many betting options are available on CricBet99?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "CricBet99 offers a wide range of betting alternatives, including live casino, virtual sports, popular sports betting (including football, cricket, and tennis), and hundreds of other activities. You may view all of the lists in the top bar or side menu of the CricBet99 app."
+          }
+        }, {
+          "@type": "Question",
+          "name": "What options are available for downloading the CricBet99 apps?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For iOS and Android users, the CricBet99 app can be downloaded from the official website. During the first installation, you have the option to ignore the warning and click \\"Install Anyway.\\""
+          }
+        }, {
+          "@type": "Question",
+          "name": "How long does it take to get funds in my CricBet99 account after a deposit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "E-wallets and UPI deposits are usually credited within a few seconds. Net banking transfers (RTGS, NEFT, and IMPS) take five minutes, depending on the banking system. Because bitcoin deposits require network confirmations, the times may vary."
+          }
+        }, {
+          "@type": "Question",
+          "name": "What if I forget my CricBet99 password?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If you can't remember your password, just select the \\"Forgot Password\\" option on the login screen. You will be prompted to input your registered email address or WhatsApp number. You can also get in touch with our support team directly on WhatsApp."
+          }
+        }, {
+          "@type": "Question",
+          "name": "How do I get customer support if I face any problem?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We provide 24/7 human, not chatbot, one-on-one client care. We can also be contacted via WhatsApp live chat."
+          }
+        }, {
+          "@type": "Question",
+          "name": "What if a match or an event on which I have bet is cancelled?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Examples of situations that are covered by our betting rules include events that are postponed or canceled. In most cases, wagers on canceled events are worthless; the funds are credited back to your CricBet99 balance."
+          }
+        }]
+      }
     `,
   }}
 />
