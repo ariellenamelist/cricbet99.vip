@@ -29,13 +29,13 @@ export default function Home() {
 
   return (
     <div>
-    <title>Welcome to CricBet99</title>
+    <title>Welcome to CricBet99 — Get Quick CricBet99 Login ID today's</title>
     <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
     <meta name="googlebot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="bingbot" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1"/>
     <meta name="google-site-verification" content="yZowM2owOaBNiz6DaQw4ZSbSzAo3TykvXoHhamcl7C0" />
     
-    <meta name="title" content="Welcome to CricBet99"/>
+    <meta name="title" content="Welcome to CricBet99 — Get Quick CricBet99 Login ID today's"/>
     <meta name="description" content="There is no doubt that CricBet99 is the largest gaming website in the world. More than 4500+ sports games are available daily on CricBet99.com website. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a CricBet99 account now."/>
     <meta name="keywords" content="welcome to cricbet99, cricbet99 login, cricbet99.com login, cricbet99 club, cricbet99 ID, cricbet99 sign up, cricbet99 link, cricbet99 download, cricbet99 app, cricbet99 win, cricbet99 whatsapp number, cricbet99 login ID, cricbet99 download apk"/>
     <meta name="author" content="CricBet99"/>
@@ -50,7 +50,7 @@ export default function Home() {
     {/*<!-- Open Graph meta tags for CricBet99 -->*/}
     <meta property="og:url" content="https://www.cricbet99.vip/"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Welcome to CricBet99"/>
+    <meta property="og:title" content="Welcome to CricBet99 — Get Quick CricBet99 Login ID today's"/>
     <meta property="og:description" content="There is no doubt that CricBet99 is the largest gaming website in the world. More than 4500+ sports games are available daily on CricBet99.com website. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a CricBet99 account now."/>
     <meta property="og:image" content="https://www.cricbet99.vip/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
     <meta property="og:logo" content="https://www.cricbet99.vip/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
@@ -59,7 +59,7 @@ export default function Home() {
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:domain" content="CricBet99"/>
     <meta name="twitter:url" content="https://www.cricbet99.vip/"/>
-    <meta name="twitter:title" content="Welcome to CricBet99"/>
+    <meta name="twitter:title" content="Welcome to CricBet99 — Get Quick CricBet99 Login ID today's"/>
     <meta name="twitter:description" content="There is no doubt that CricBet99 is the largest gaming website in the world. More than 4500+ sports games are available daily on CricBet99.com website. Instant deposit and withdrawal. Best odds, 24/7 customer support and referral bonuses. Sign up for a CricBet99 account now."/>
     <meta name="twitter:image" content="https://www.cricbet99.vip/_next/image?url=%2Fimages%2Flogo.png&w=384&q=75"/>
 
