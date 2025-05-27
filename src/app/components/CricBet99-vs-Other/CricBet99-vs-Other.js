@@ -91,7 +91,7 @@ export default function CricBet99Other() {
                 <div className="text-center anc-tab">
                 <a
                     className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow"
-                    href="#"
+                    href="https://wa.me/918441068489"
                     >
                     <span className="elementor-button-content-wrapper">
                         <span className="elementor-button-text">Get CricBet99 ID</span>
