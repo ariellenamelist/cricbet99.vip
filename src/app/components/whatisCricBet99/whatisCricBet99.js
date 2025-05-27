@@ -23,7 +23,7 @@ Therefore, if you want to bet on football, cricket, or any other casino game of 
                     <div className="text-left anc-tab">
                         <a
                         className="elementor-button elementor-button-link elementor-size-sm elementor-animation-pulse-grow"
-                        href="#"
+                        href="https://wa.me/918441068489"
                         >
                         <span className="elementor-button-content-wrapper">
                             <span className="elementor-button-text">Get CricBet99 Login ID</span>
